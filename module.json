@@ -2,7 +2,7 @@
   "id": "zoom-pan-options",
   "title": "Zoom/Pan Options",
   "description": "Adds cursor-based zoom, touchpad/scrollwheel zoom/pan support, and other options.",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -18,13 +18,13 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/shemetz/ZoomPanOptions",
-  "manifest": "https://github.com/shemetz/ZoomPanOptions/raw/master/module.json",
-  "download": "https://github.com/shemetz/ZoomPanOptions/archive/master.zip",
-  "readme": "https://github.com/shemetz/ZoomPanOptions/blob/master/Readme.md",
-  "changelog": "https://github.com/shemetz/ZoomPanOptions/blob/master/Changelog.md",
-  "license": "https://github.com/shemetz/ZoomPanOptions/blob/master/License.txt",
-  "bugs": "https://github.com/shemetz/ZoomPanOptions/issues",
+  "url": "https://github.com/IHaveThatPower/ZoomPanOptions",
+  "manifest": "https://github.com/IHaveThatPower/ZoomPanOptions/raw/master/module.json",
+  "download": "https://github.com/IHaveThatPower/ZoomPanOptions/archive/master.zip",
+  "readme": "https://github.com/IHaveThatPower/ZoomPanOptions/blob/master/Readme.md",
+  "changelog": "https://github.com/IHaveThatPower/ZoomPanOptions/blob/master/Changelog.md",
+  "license": "https://github.com/IHaveThatPower/ZoomPanOptions/blob/master/License.txt",
+  "bugs": "https://github.com/IHaveThatPower/ZoomPanOptions/issues",
   "relationships": {
     "requires": [
       {
@@ -44,6 +44,11 @@
       "discord": "shemetz",
       "email": "itamarcu+foundry@gmail.com",
       "reddit": "u/Shemetz"
+    },
+    {
+      "name": "IHaveThatPower",
+      "discord": "ihavethatpower",
+      "reddit": "u/IHaveThatPower"
     }
   ],
   "manifestPlusVersion": "1.2.0",
